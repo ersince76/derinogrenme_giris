@@ -41,16 +41,6 @@ print('Başarım: %.2f' % (accuracy*100))
 
 #%%
 
-def harf_vektor(cumle):
-    harfler = "abcçdefgğhıijklmnoöprsştuüvyzqwx"
-    result =[]
-    for h in harfler:
-        value = round( cumle.count(h) / len( cumle) , 3)
-        result.append( value )
-    return np.array(result)
-
-import time 
-
 X = data[ 160000:160020 ,0:32]
 y = data[ 160000:160020 ,32]
 
