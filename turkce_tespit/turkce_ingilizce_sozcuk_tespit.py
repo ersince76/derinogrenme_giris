@@ -55,43 +55,4 @@ X = data[ 160000:160020 ,0:32]
 y = data[ 160000:160020 ,32]
 
 _, accuracy = model.evaluate(X, y)
-print('Başarım: %.2f' % (accuracy*100)) 
-
-"""
-a = time.time()
-# satır satır modeli işletmek 
-for i,d in enumerate(X):
-    yp = model.predict([[ d ]] )
-    print( "beklenen= {}, tahmin edilen ={} , yorum ={} ".format(y[i], yp[0][0], round(yp[0][0]) ))
-
-b = time.time()
-
-print( "hesaplama suresi {}".format(str( (b -a) / len(y) ) ))
-
-#%%
-sozluk  = open("./turkce.txt")
-#sozluk  = open("./english.txt")
-
-
-tur = 0
-eng = 0
-i =0
-for w in sozluk:
-    i += 1
-    if i % 1000 == 0:
-        print( tur / (tur + eng))
-        
-    p = model.predict([[harf_vektor(w)]])
-    
-    if p < 0.5:
-        eng += 1
-        #print( w )
-    else:
-        tur += 1
-        
-    if eng == 50000:
-        break
-    #break
-
-print ( tur / (tur + eng))
-"""
+print('Başarım: %.2f' % (accuracy*100))
