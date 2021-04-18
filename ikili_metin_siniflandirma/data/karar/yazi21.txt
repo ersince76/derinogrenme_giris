@@ -1,0 +1,34 @@
+AMBAK: Herkese eşit verimli belediye
+6
+
+Söz verdiğim gibi bugün uzaktan belediye yönetimi, hizmeti sistemini, Yalova Belediyesi’nin Zambak sistemini anlatacağım. Proje değil, sistem. Yeni seçilen belediye başkanı kaldırıncaya kadar tıkır tıkır işlemiş. Yakup Bilgin Koçal 1999’da Yalova’ya belediye başkanı olmuş. Makamına gelen kutlama çiçekleri solmadan deprem felaketiyle karşılaşmış. Yıkım yeni bir yapımın tohumudur demiş ve yeniden tasarıma, hani re-engineering dedikleri işe girişmiş. İki soru sorduk diyor:
+
+-Kurumu nasıl daha verimli çalıştırabiliriz?
+
+-Rüşveti, torpili, her türlü ayrımcılığı ve partizanlığı nasıl yok ederiz?
+
+Bu amaçlar için bir takım kurmuşlar. Yoğun teorik eğitim ve danışmanlık hizmeti almışlar. Yönetim biliminde ortalık moda kelime ve kavramlarla kaynar. Toplam Kalite Yönetimi, Süreç Yönetimi (ki Toplam Kalite’nin de taşıyıcı kolonudur) ve benzeri derinliklere dalmışlar ve boğulmadan çıkmışlar. Bu sözlerden bir öz çıkarmak için kolları sıvayıp işin içine girmeniz gerekir. Bir eliniz fiilde, bir eliniz kütüphanede olmalıdır. Marifet pratikle teoriği birleştirmektir. Yoksa tek başlarına bunların ikisi de işe yaramaz. 
+
+İlk adım sistem analizi. Koçal bu işleme, “mahsusun makule tercümesi” diyor. İsterseniz buna tikelin genele çevrilmesi, isterseniz tüme varım, isterseniz gözlenen, elle tutulanı genelleştirip teoriyi, tasarımı çıkarmak deyin. Bilgisayar mühendisleri ve işletmeciler sistem analizi derler. İşin kalbidir. 
+
+20 KAT VERİM ARTIŞI!
+
+Belediye’ye gelen bütün müracaatların, akış diyagramını çıkarmışlar. Yani Al-Harezmi’nin algoritmalarını hazırlamışlar. Vatandaşın da başkasının da “iş takibi”ne gerek kalmamış. Sadece taleplerin alındığı noktalar kalmış. “Hizmet Masaları dışında hizmet üreten tüm birimleri kurumun mutfağı kabul edip, vatandaşla irtibatı kesilmiş oldu.” diyor başkan. 359 tip dilekçe, 164 tip şikâyeti ve bunların her birinin nasıl akacağını, nerelerden geçip nasıl sonuçlandırılacağını tanımlamışlar. Böylece aynı işler her zaman aynı şekilde sonuçlanır hâle gelmiş. Weber’e göre de devlet, algoritmalar demektir. Bana başka, ona başka sonuç veren devlet devlet değil, çürümüş, keyfî saltanattır. 
+
+2004’te Koçal görevi bırakmış fakat 2009’da tekrar seçilmiş ve sistemi tamamlamış. Sonra bakın neler olmuş: “Verim %2000 arttı” diyor. Nasıl ölçtü bilmiyorum ama buyurun size bazı ölçmeler: 40 günde verilen inşaat ruhsatı 82 saatte verilir olmuş. İskân verilmesi 30 günden 70 saate düşmüş. Bir ayda verilen imar durumu, bir saatte verilebilmiş. Bütün hizmetlerin ortalama tamamlanma süresi 20 günden 25 saate düşmüş.  Bu son rakamları verim ölçüsü alırsanız 20 x 24 / 25, gerçekten %2000 gibi bir sonuç çıkıyor. (Abartmayalım, %1920 ediyor!)
+
+MUTLULUĞUN RESMİ
+
+Vatandaşın hissettiği değişiklikler şöyle sıralanıyor: Kamu binası ihtiyacı yarıdan aza düşmüş. Torpil, rüşvet, partizanlık, ayrımcılık fırsatları yok olmuş. Bilgisayara iltiması programlamayı unutmuşlar anlaşılan. Ve personelin %70’i evden çalışmaya başlamış. 
+
+Koçal daha bir dizi olumlu değişiklik sayıyor. Bazılarını tam kavramak için tekniğe girmek lazım. Belki en önemlilerinden biri, vatandaş memnuniyetinin objektif biçimde ölçülebilmesi. Bu yolla pürüz çıkarabilen noktalar, algoritma değişikliğiyle, akışın farklı yönlendirmesiyle yok edilmiş. Böyle sistemlerin en güzel taraflarından biri de personelin kendi kendisini ölçebilmesi ve verimini diğer arkadaşlarınınkiyle karşılaştırabilmesidir. Bu çalışmanın mükemmele yaklaştırılmasında en güzel metotlardan biridir. Ceza vermeden, azarlamadan, bağırıp çağırmadan, gittikçe daha verimli çalışan, üstelik işini de iş arkadaşlarını da seven ekiplere kavuşursunuz. Biliyorum; bir zamanlar ben de yapmıştım.
+
+DEMOKRASİ VE TOPLUM SERMAYESİ
+
+Fakat her şeyi programlayamıyorsunuz, algoritmaya sokamıyorsunuz. Pek güzel bir misal veriyor başkan. Aynı zamanda bir demokrasi uygulaması. Yalova’nın Rüstem Paşa Mahallesi’nde Mahalle Meclisi, 16 yatırım talep etmiş. Belediyenin bunların hepsini birden gerçekleştirecek kaynağı yok. O halde bunları bir öncelik sırasına sokmak gerek. Kime sormalı? Talep edenlere sormak en iyisi. 16 projenin de maliyetlerini çıkarmışlar ve toplam bütçeyi de vatandaşa açarak sormuşlar: “Sizce bunlardan hangilerini yapmalıyız?”
+
+Sonucu Başkan Koçal anlatsın: “…yatırımların öncelik sıralamasının belediyenin web sitesi üzerinden vatandaş tarafından yapılmasını istedik. Evlerinde, işyerlerinden internet bağlantısı olanlar buralardan, imkânı bulunmayanlar ise, o tarihlerde internet şimdiki kadar yaygın olmadığı için, mahalle içinde birkaç noktaya yerleştirdiğimiz kiosklardan yararlanarak tercihlerini yaptı. Beş bin civarında seçmeni bulunan mahalleden 3635 kişi e-demokrasi uygulamasına katıldı. Gezi alanı, çocuklar için mini halı saha ve yol gibi toplam dört yatırım öncelik aldı ve gerçekleştirildi.”
+
+Kuzey İtalya’yı zenginleştiren toplum sermayesi ve demokrasi hikâyesine yurdumda şahit olabileceğim kaç yer vardır? Merak edenler Kuzey İtalya örneğini “Alt Akıl- Aptallar ve Diktatörler” kitabımdan okuyabilirler. Fakat aynı zenginleşme Güney İtalya’da olamıyor. Çünkü orada tepeden aşağı iletişim, mafya, tepede büyük adamlar ve aşağıda onların küçük adamları hâkim. 
+
+Bir sonraki seçimle başkan değişmiş ve işleyen sisteme 2014’te son vermişler. Niçin? Bilmiyorum. Belki bir sebebi vardır ve söylerler. Hâlbuki Devlet Personel Daire Başkanlığı, 2013 yılında Yalova örneği üzerinden bütün ülkede uygulama kararı almış. Olmamış.
